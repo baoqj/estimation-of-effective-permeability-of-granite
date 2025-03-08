@@ -1,0 +1,4 @@
+rock_type: Stanstead
+cube_size: 280.0
+n_grid: 51
+timestamp: 2025-03-08 02:33:51
