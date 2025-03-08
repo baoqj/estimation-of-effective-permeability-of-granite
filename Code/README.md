@@ -1,5 +1,11 @@
 # 花岗岩渗透率研究的PINN实现 - 完整代码
 
+- eﬀective_permeability_pinn_G2C.py
+
+    可以使用GPU或者CPU交叉训练。
+    如果在GPU上训练保存的模型，可以继续在CPU上使用。
+
+
 - eﬀective_permeability_pinn.py 使用方法
 
     1. 初次训练模型
